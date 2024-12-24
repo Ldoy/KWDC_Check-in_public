@@ -1,0 +1,142 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "checkin_button_accessibility_hint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move to the screen where you enter booking name and number to receive your ticket."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이름과 예약번호를 입력하고, 티켓을 발급받는 화면으로 이동합니다."
+          }
+        }
+      }
+    },
+    "KWDC로의 도약" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Step into KWDC"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "KWDC로의 도약"
+          }
+        }
+      }
+    },
+    "mainImage_accessibility_hint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Three translucent discs stacked with gaps between them"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "세 개의 반투명한 원판이 서로 간격을 두고 쌓여 있습니다. "
+          }
+        }
+      }
+    },
+    "mainImage_accessibility_value" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "KWDC24 Main"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "KWDC24 메인"
+          }
+        }
+      }
+    },
+    "ticketRequest_button_text_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "KWDC Check-in"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "체크인 하기"
+          }
+        }
+      }
+    },
+    "네이버 예약 번호 확인하기" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find your ticket number"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "네이버 예약 번호 확인하기"
+          }
+        }
+      }
+    },
+    "네이버 예약을 하셨다면, 예약 번호로 \n 바로 체크인 하실 수 있습니다." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If you booked through Naver,  you can check-in instantly with your ticket number."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "네이버 예약을 하셨다면, 예약 번호로 \n 바로 체크인 하실 수 있습니다."
+          }
+        }
+      }
+    },
+    "체크인은 예약 번호당 한 번만 가능합니다." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check-in is only allowed once per reservation number."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "체크인은 예약 번호당 한 번만 가능합니다."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,282 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "booking_number_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Booking No."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "예약번호"
+          }
+        }
+      }
+    },
+    "booking_number_textField" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "9-digit number"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "9자리 숫자"
+          }
+        }
+      }
+    },
+    "bookingNumber_accessiblity_labelName" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Booking Number"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "예약번호"
+          }
+        }
+      }
+    },
+    "bookingNumber_process_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Search for ‘Naver MY Place’ or ‘Naver My Place’ and access it.  2. Tap the Home tab or the icon in the upper right corner.\n3. Select Reservations/Orders.\n4. Tap on Reservations and check your details.\n5. In the reservation history, tap the name of the item you reserved to view the details.  For group purchasers, you can generate tickets based on the purchased quantity on the same or multiple devices."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 네이버 MY 플레이스 또는 네이버 마이플레이스를 검색 후 접속합니다.\n2. 홈 또는 오른쪽 위 아이콘을 누릅니다. 3. 예약/주문을 누릅니다. 4. 예약을 누른 뒤 내역을 확인합니다. 5. 예약 내역에서 예약한 상품의 이름 부분을 눌러 상세 내역을 확인합니다.  단체 구매자인 경우 동일/여러 기기에서 티켓 수만큼 생성이 가능합니다."
+          }
+        }
+      }
+    },
+    "cancel_button_label" : {
+      "comment" : "Dismiss this view",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취소"
+          }
+        }
+      }
+    },
+    "checkin_title_accessibility_hint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Title"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "제목"
+          }
+        }
+      }
+    },
+    "customer_surpport_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contact KWDC"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문의하기"
+          }
+        }
+      }
+    },
+    "done_button_label" : {
+      "comment" : "Done",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "완료"
+          }
+        }
+      }
+    },
+    "emptySubmit_warning_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This field is required"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "필수 입력 칸입니다"
+          }
+        }
+      }
+    },
+    "exit_naver_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find your ticket number"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "네이버 예약 번호 확인하기"
+          }
+        }
+      }
+    },
+    "name_textField_accessibility_hint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Double tap to insert booking user name"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "두 번 터치하여, 예약자의 이름을 입력하세요"
+          }
+        }
+      }
+    },
+    "number_textField_accessibility_hint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Double tap to insert booking number"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "두 번 터치하여, 예약번호를 입력하세요"
+          }
+        }
+      }
+    },
+    "title_label" : {
+      "comment" : "Checkin view title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check-in"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "체크인"
+          }
+        }
+      }
+    },
+    "user_name_label" : {
+      "comment" : "User name in Never Booking system",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Booking Name"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "예약자명"
+          }
+        }
+      }
+    },
+    "user_name_textField_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ex) Steve Jobs"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "예약자 이름"
+          }
+        }
+      }
+    },
+    "warningLabel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Once created, a ticket cannot be generated again."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "모든 티켓은 한 번 생성된 이후에는 다시 생성할 수 없습니다."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
